@@ -1,0 +1,11 @@
+body{background-image: url(../images/home_bg.jpg);}
+.imglogo {width: 100%; height: 180px !important; }
+.bg{background-color:rgba(0,0,0,0.7)}
+.text_clr{color:#ed9e21;font-size: 16px;}
+nav li.active{background-color: black;}
+.bg_sec{background-color: #eeeeee;}
+.content{color:#FFDEAD}
+.width_cont{width: 70%; margin: auto; float: right;}
+.width_con{width: 40%;margin: auto;}
+p{font-size: 14px;}
+@media (max-width:568px){.width_cont{width: 100%;}.width_con{width: 100%;}}
